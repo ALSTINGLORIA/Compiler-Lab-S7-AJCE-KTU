@@ -8,3 +8,7 @@ A repo Consisting of Some of S7 Compiler Lab Programs (KTU)
 *  First and  Follow <br> This program may not work in some situations but in most cases works. Also it does not tell the action which it performs, only displays the final result.
 
   
+* Added some lex and yacc programs 
+
+* Recursive Descent Parser 
+* Nfa epsilon closure program
